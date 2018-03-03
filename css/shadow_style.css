@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.maximcon{
+	width:1290px;
+	height:310px;
+	margin:0 auto;
+	}
+.maxim{
+	width:837px;
+	height:146px;
+	margin:80px 226px;
+	}
+.main{
+	width:1290px;
+	height:1200px;
+	margin:0 auto;background:#ccc;
+	}

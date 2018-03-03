@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+.addcon{
+	width:1290px;
+	height:360px;
+	margin:20px auto 0;
+	}
+.add1{
+	width:210px;
+	height:360px;
+	}
+.addpic1{
+	width:210px;
+	height:360px;
+	}
+.add2{
+	width:770px;
+	height:360px;
+	margin-left:10px;
+	}
+.addpic2{
+	width:770px;
+	height:360px;
+	}
+.add3{
+	width:290px;
+	height:360px;
+	margin-left:10px;
+	}
+.addpic3{
+	width:290px;
+	height:360px;
+	}
+                                                                                                                            
+.oa{
+	width:1290px;
+	height:24px;
+	margin:30px auto 0;
+	}
+.linear{
+	width:4px;
+	height:18px;
+	margin-top:3px;
+	background:#222;
+	}
+.titleword1{
+	font-size:18px;
+	color:#222;
+	margin-left:10px;
+	}
+.decorate{
+	width:1206px;
+	height:11px;
+	margin-top:7px;
+	margin-left:8px;
+	background:url(../images/line_zs3.png) repeat 50% 50%;
+	}
+/*========================================================================================*/
+.main{
+	width:1290px;
+	margin:0 auto;
+	}
+.goods{
+	width:408px;
+	margin-left:30px;
+	margin-top:30px;
+	border:1px solid #fff;
+	cursor:pointer;
+	}
+.goods:hover{	
+	border:#e7e7e7 solid 1px;
+	border:1px solid #e7e7e7;
+	}
+.eligoods{
+	margin-left:0;
+    }
+.eligood{
+	margin-top:10px;
+	}
+.mapstyle{
+	width:380px;
+	height:380px;
+	margin:14px;
+	}
+.pricecon{
+	width:240px;
+	height:90px;
+	border-bottom:1px dashed #c9c9c9;
+	margin:0 auto 30px;
+	}
+.pricetag{
+	width:240px;
+	height:40px;
+	}
+.pricein{
+	width:150px;
+	height:40px;
+	}
+.linebr{
+	width:45px;
+	height:1px;
+	margin-top:22px;
+	background:#e7e7e7;
+	}
+.priceword1{
+	font-size:14px;
+	line-height:24px;
+	margin:10px;
+	}
+.priceword2{
+	font-size:14px;
+	line-height:24px;
+	text-align:center;
+	}
+.eliprice{
+	margin-left:5px;
+	}
+.peye{
+	width:20px;
+	height:20px;
+	margin-top:12px;
+	margin-left:25px;
+	}
+

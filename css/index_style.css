@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{overflow-x:hidden;}
+
+.bannercon{
+	width:1366px;
+	height:520px;
+	margin:20px auto 0;
+	position:relative;
+	/*background:url(../images/banner_2016_haidao0001.jpg) no-repeat 50% 50%;
+	background-size:contain;
+	overflow:hidden;*/
+	}
+.banner{
+	width:1920px;
+	height:520px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-960px;
+	margin-top:-259px;
+	display:inline-block;
+	cursor:pointer;
+	background:url(../images/banner_2016_haidao0001.jpg) no-repeat 50% 50%;
+	}
+
+.main{
+	width:1290px;
+	margin:0 auto;
+	}
+.card{
+	width:410px;
+	height:470px;
+	margin-left:30px;
+	margin-top:30px;
+	box-sizing:border-box;
+	border:1px solid #fff;
+	cursor:pointer;
+	}
+.card:hover{	
+	border:#e7e7e7 solid 1px;
+	box-shadow:0 0 2px #e7e7e7,0 0 8px #e7e7e7,0 0 16px #e7e7e7;
+	}
+.elicard{
+	margin-left:0;
+    }
+.picstyle{
+	width:380px;
+	height:290px;
+	margin:14px;
+	}
+.cardword1{
+	font-size:16px;
+	color:#222;
+	text-align:center;
+	margin:12px auto 16px;
+	}
+.lineur{
+	width:60px;
+	height:1px;
+	background:#222;
+	margin:0 auto;
+	}
+.cardword2{
+	font-size:14px;
+	color:#888;
+	text-align:center;
+	margin:16px auto 12px;
+	}
+.eyescon{
+	width:84px;
+	height:55px;
+	margin:0 auto;
+	}
+.cardword3{
+	font-size:14px;
+	color:#b0b0b0;
+	line-height:20px;
+	margin-left:5px;
+	}
+.eyestyble{
+	width:20px;
+	height:14px;
+	margin-top:3px;
+	}
+

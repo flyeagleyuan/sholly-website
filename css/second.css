@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.header{
+	width:1290px;
+	margin:0 auto;
+	position:relative;
+	height:36px;
+	}
+.block1{
+	width:1920px;
+	height:36px;
+	background:#2c2c2a;
+	margin-left:-960px;
+	position:absolute;
+	left:50%;
+	}
+.welcome{
+	color:#dfdfdf;
+	line-height:36px;
+	margin-left:315px;
+	}
+.extend{
+	width:234px;
+	height:36px;
+	margin-right:315px;
+	}
+.extend li{
+	width:78px;
+	height:36px;
+}
+
+.extend a{
+	display:block;
+	color:#dfdfdf;
+	width:80px;
+	line-height:36px;
+	text-align:center;
+	}
+.extend a:hover{
+	color:#ffcc00;
+	}
+.on_time a{
+	color:#ffcc00;
+	}
+.listyle{
+	width:80px;
+	height:36px;
+	border-borrom:solid #CCC 1px;
+	}
+
+.nav-box{
+	width:100%;
+	height:70px;
+	position:relative;
+	box-shadow:0 0 3px 0 #a9a9a9;
+	-webkit-box-shadow:0 0 3px 0 #a9a9a9;
+	-moz-box-shadow:0 0 3px 0 #a9a9a9;
+}
+.position-fix{
+	position:fixed;
+	top:0;
+	width:100%;
+	height:70px;
+	background:#fff;
+	box-shadow:0 0 3px 0 #a9a9a9;
+	-webkit-box-shadow:0 0 3px 0 #a9a9a9;
+	-moz-box-shadow:0 0 3px 0 #a9a9a9;
+}
+	
+.navigation{
+	width:1290px;
+	height:70px;
+	margin:0 auto;
+	position:absolute;
+	left:50%;
+	margin-left:-645px;
+	}
+.logostyle{
+	width:143px;
+	height:35px;
+	margin:17px auto;
+	cursor:pointer;
+	}
+.nav{
+	width:650px;
+	height:70px;
+	margin-left:180px;
+	}
+.navstyle li{
+	width:60px;
+	height:33px;
+	margin-left:52px;
+	margin-top:28px;
+	}
+.navstyle .elili{
+	margin-left:0;}
+.navstyle a{
+	color:#222;
+    font-size:14px;
+	font-weight:bold;
+	line-height:33px;
+	text-align:center;
+	}
+.navstyle a:hover{
+	color:#ffcc00;
+	}
+.platform{
+	color:#a3a2a2;
+	line-height:22px;
+	width:160px;
+	height:70px;
+	}
+.platstyle{
+	width:60px;
+	height:22px;
+	margin-top:36px;
+	cursor:pointer;
+	}
+.mcheng{
+	margin-left:4px;
+	}
+.micon{
+	width:22px;
+	height22px;
+	}
+.lineor{
+	width:1366px;
+	height:1px;
+	position:relative;
+	}
+.cutLine{
+	width:1920px;
+	height:1px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-960px;
+	margin-top:-0.5px;
+	background:#222;
+}
+
+	
+.footer{
+	width:1290px;
+	height:60px;
+	margin:0 auto;
+	}

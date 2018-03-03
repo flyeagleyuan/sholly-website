@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	width:1290px;
+	margin:0 auto;
+	position:relative;
+	height:36px;
+	}
+.block1{
+	width:1920px;
+	height:36px;
+	background:#2c2c2a;
+	margin-left:-960px;
+	position:absolute;
+	left:50%;
+	}
+.welcome{
+	color:#dfdfdf;
+	line-height:36px;
+	margin-left:315px;
+	}
+.extend{
+	width:234px;
+	height:36px;
+	margin-right:315px;
+	}
+.extend li{
+	width:78px;
+	height:36px;
+}
+
+.extend a{
+	display:block;
+	color:#dfdfdf;
+	width:80px;
+	line-height:36px;
+	text-align:center;
+	}
+.extend a:hover{
+	color:#ffcc00;
+	}
+
+
+/*=========================================================================================================*/	
+
+.first_navication{
+	width:1290px;
+	height:139px;
+	margin:0 auto;
+	}
+.logocon{
+	width:1290px;
+	height:80px;
+	}
+.logostyle{
+	width:232px;
+	height:80px;
+	display:block;
+	margin:30px auto;
+	}
+.nav{
+	width:1290px;
+	height:56px;
+	position:absolute;
+	left:-645;
+	}
+.nav ul{
+	width:620px;
+	margin-left:335px;
+	}
+.navstyle li{
+	width:60px;
+	height:56px;
+	margin-left:52px;b
+	}
+.navstyle .elili{
+	margin-left:0;}
+.navstyle a{
+	display:block;
+	width:60px;
+	height:33px;
+    font-size:14px;
+	font-weight:bold;
+	color:#222;
+	text-align:center;
+	margin-top:24px;
+	}
+.anstyle a{
+	border-bottom:#222 solid 2px;
+	}
+.lineor{
+	width:1366px;
+	height:1px;
+	position:relative;
+	}
+.cutLine{
+	width:1920px;
+	height:1px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-960px;
+	margin-top:-0.5px;
+	background:#222;
+}
+
+	
+/*footer is ended*/
+.footer{
+	width:100px;
+	height:150px;
+}
+/*footer is ended*/	

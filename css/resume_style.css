@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width:100%;
+	background:#fff;
+	overfloew-x:hidden;
+	}
+.header{
+	width:12.9rem;
+	margin:0 auto;
+	background:red;
+	}
+.header-banner{
+	background:url(../images/resumpic_001.jpg) no-repeat 50% 50%;
+}
+.content{
+	width:1920px; 
+	margin:0 auto;
+	}
+.abstract{
+	width:1290px;
+	height:160px;
+	margin:94px auto;
+	}
+.vastyle{
+	width:400px;
+	heidth:140px;
+	margin-left:45px;
+	float:left;
+	}
+.eliva{
+	margin-left:0;
+	}
+.gstyle{
+	font-size:26px;
+	color:#566467;
+	font-weight:bold;
+	}
+.hstyle{
+	font-size:14px;
+	line-height:30px;
+	color:#888;
+	margin-top:38px;
+	}
+.basics{
+	width:1920px;
+	height:710px;
+	background:#f5f5f5;
+	margin:0 auto;
+	}
+.photo-sun{
+	width:750px;
+	height:710px;
+	float:left;
+	}
+.info{
+	width:761px;
+	height:500x;
+	float:left;
+	margin-top:94px;
+	margin-left:94px;
+	}
+.recostyle{
+	font-size:14px;
+	line-height:24px;
+	color:#888;
+	margin-top:38px;
+	}
+.info-menu{
+	width:761px;
+	height:500px;
+	margin-top:14px;
+	}
+.infor-rel{
+	width:284px;
+	height:128px;
+	margin-top:30px;
+	margin-left:193px;
+	}
+.info-yellow{
+	width:144px;
+	height:120px;
+	float:left;
+	}
+.info-momo{
+	width:220px;
+	height:120px;
+	}
+.info-tit{
+	font-size:20px;
+	color:#566467;
+	font-weight:bold;
+	}
+.info-pap{
+	font-size:14px;
+	color:#888;
+	line-height:24px;
+	margin-top:10px;
+	}
+.elirel{
+	margin-left:0;}
+.myskill{
+	width:1290px;
+	height:396px;
+	margin:94px auto;
+	}
+.skillpag{
+	width:490px;
+	height:400px;
+	bacjground:#99F
+	}
+.botstyle{
+	width:196px;
+	height:52px;
+	border:2px solid #ffcc00; 
+	margin-top:24px;
+	}
+.contstyle{
+	font-size:20px;
+	color:#ffcc00;
+	margin:12px 68px;
+	}
+.skilltu{
+	width:660px;
+	height:400px;
+	margin-top:20px;
+	}
+.tutu{
+	width:660px;
+	height:70px;
+	margin-top:24px;
+	}
+.tuback{
+	width:660x;
+	height:30px;
+	margin-top:14px;
+	background:#f2f2f2;
+	}
+.progress-one{
+	width:594px;
+	height:30px;
+	margin-top:14px;
+	background:#ffcc00;
+	}
+.progress-two{
+	width:461px;
+	height:30px;
+	margin-top:14px;
+	background:#ffcc00;
+	}
+.progress-three{
+	width:396px;
+	height:30px;
+	margin-top:14px;
+	background:#ffcc00;
+	}
+.progress-four{
+	width:528px;
+	height:30px;
+	margin-top:14px;
+	background:#ffcc00;
+	}
+.proportion{
+	font-size:14px;
+	color:#222;
+	margin-top:6px;
+	margin-right:10px;
+	}
+.enclosure{
+	width:1920px;
+	height:420px;
+	background:#f5f5f5;
+	margin:0 auto;
+	}
+.mystyle{
+	font-size:26px;
+	color:#566467;
+	
+	}
