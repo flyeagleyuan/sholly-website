@@ -5,7 +5,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<link rel="stylesheet" href="css/common.css"/>
     <link rel="stylesheet" href="css/resume_fly.css"/>
-    <script src="js/rem.js" type="text/javascript"></script>
+    
 </head>
 
 <body>
@@ -247,29 +247,29 @@
     	<div class="sleepcat-produce">
         	<h3 style="color:#566467;">代表作</h3>
         	<ul class="produces-list clearfix">
-            	<li class="fl clear-margin resume_works" onclick="window.open('details/vi_bojunlogo.html')">
+            	<li class="fl clear-margin resume_works" onClick="window.open('details/vi_bojunlogo.html')">
                 	<img src="images/resume_works01.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/ui_app_yxjj02.html')">
+                <li class="fl resume_works" onClick="window.open('details/ui_app_yxjj02.html')">
                 	<img src="images/resume_works02.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/ui_app_zsdh01.html')">
+                <li class="fl resume_works" onClick="window.open('details/ui_app_zsdh01.html')">
                 	<img src="images/resume_works03.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/ui_pc_yxgloble.html')">
+                <li class="fl resume_works" onClick="window.open('details/ui_pc_yxgloble.html')">
                 	<img src="images/resume_works04.jpg" />
                 </li>
                 
-                <li class="fl clear-margin resume_works" onclick="window.open('details/hd_16marry01.html')">
+                <li class="fl clear-margin resume_works" onClick="window.open('details/hd_16marry01.html')">
                 	<img src="images/resume_works05.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/hd_2015_mma04.html')">
+                <li class="fl resume_works" onClick="window.open('details/hd_2015_mma04.html')">
                 	<img src="images/resume_works06.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/hd_wangke03.html')">
+                <li class="fl resume_works" onClick="window.open('details/hd_wangke03.html')">
                 	<img src="images/resume_works07.jpg" />
                 </li>
-                <li class="fl resume_works" onclick="window.open('details/ui_app_order.html')">
+                <li class="fl resume_works" onClick="window.open('details/ui_app_order.html')">
                 	<img src="images/resume_works08.jpg" />
                 </li>
             </ul>
@@ -299,10 +299,12 @@
                     	<textarea placeholder="请输入……"></textarea>
                     </div>
                     <input type="button" value="联系我" class="summit"/>
+                    <a id="send" href="mailto"></a>
                 </div>
             </div>
         </div>
-        
+        </div>
+
         <!--contact-me is ended-->
     </div>    
     <!--内容结束-->
@@ -330,5 +332,8 @@
             </ul>
         </div>
     </div>
+    <script src="js/jquery-1.7.2.js"></script>
+    <script src="js/rem.js" type="text/javascript"></script>
+    <script src="js/mail.js"></script>
 </body>
 </html>
