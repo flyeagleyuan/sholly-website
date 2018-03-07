@@ -5,6 +5,10 @@
 	width:1090px;
 	margin:0 auto;
 	}
+.leftbox{
+	width:260px;
+	height:600px;
+	}
 .catalogcon{
 	width:258px;
 	margin-top:20px;
@@ -36,6 +40,20 @@
 	line-height:60px;
 	color:#b0b0b0;
 	margin-right:6px;
+	}
+.advise{
+	width:260px;
+	height:320px;
+	margin-top:20px;
+	cursor:pointer;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	background:#000;
+	}
+.advise:hover{
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	background:#000;
 	}
 	
 .diary{
