@@ -1,3 +1,3 @@
 # sholly-website
 
-# This is a private website forlearning
+# This is a private website for learning
